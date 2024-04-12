@@ -1,6 +1,6 @@
 let movies = [
     {
-        name: 'loki',
+        name: 'match day',
         des: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam perspiciatis sit commodi, non error libero neque! Dolorem, harum repellendus officia modi ut deserunt cumque accusamus natus dicta nihil, sunt accusantium?',
         image: 'slider1.png'
     },
